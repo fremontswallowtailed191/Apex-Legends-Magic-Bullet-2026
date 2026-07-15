@@ -1,0 +1,7 @@
+aiohttp
+colorama
+matplotlib
+lxml
+opencv-python
+discord.py
+beautifulsoup4
